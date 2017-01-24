@@ -1,0 +1,53 @@
+/* 
+	Name: Abinodh Otharamannil Thomaskutty (Abinodh Thomas)
+	Student ID: c0666528
+	Date: 10th December 2015
+*/
+
+/* Section Styles */
+section p{
+	font-size: 1.8em;
+	margin-bottom: 5%;
+}
+
+/* Column Styles */
+.CatClmn {
+	width: 7%;
+	background-color: #E8E8E8;
+}
+.DescClmn {
+	width: 26%;
+	background-color: #F0F0F0;
+}
+.PricClmn {
+	width: 5%;
+	background-color: #E8E8E8;
+}
+
+/* Table */
+table {
+    padding: 25px;
+}
+
+table a {
+	text-decoration: none;
+}
+
+table th,td {
+	font-size: 1.5vw;
+	border-bottom: 1px solid black;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+
+.ProdList thead{
+	text-align: left;
+	text-indent: 30px;
+	color: white;
+	background-color: #000033;
+}
+
+.ProdList tbody{
+	text-align: left;
+	text-indent: 30px;
+}
